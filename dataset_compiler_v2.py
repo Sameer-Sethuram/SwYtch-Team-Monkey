@@ -54,3 +54,4 @@ merged_df.columns = [
 print(merged_df.head())
 
 merged_df.to_csv("combined_dataset.csv", index=False)
+df_translation.to_csv("fred_series_lookup.csv", index=False)

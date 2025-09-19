@@ -1,0 +1,61 @@
+Series ID,Title
+JTS1000HIL,Hires: Total Private
+JTS1000JOL,Job Openings: Total Private
+JTS1000LDL,Layoffs and Discharges: Total Private
+JTS1000OSL,Other Separations: Total Private
+JTS1000QUL,Quits: Total Private
+JTS1000TSL,Total Separations: Total Private
+JTS2300HIL,Hires: Construction
+JTS2300JOL,Job Openings: Construction
+JTS2300QUL,Quits: Construction
+JTS3000HIL,Hires: Manufacturing
+JTS3000JOL,Job Openings: Manufacturing
+JTS3000QUL,Quits: Manufacturing
+JTS3000TSL,Total Separations: Manufacturing
+JTS3200JOL,Job Openings: Durable Goods Manufacturing
+JTS4000JOL,"Job Openings: Trade, Transportation, and Utilities"
+JTS4400HIL,Hires: Retail Trade
+JTS4400JOL,Job Openings: Retail Trade
+JTS540099HIL,Hires: Professional and Business Services
+JTS540099JOL,Job Openings: Professional and Business Services
+JTS540099QUL,Quits: Professional and Business Services
+JTS6000JOL,Job Openings: Private Education and Health Services
+JTS6200HIL,Hires: Health Care and Social Assistance
+JTS6200JOL,Job Openings: Health Care and Social Assistance
+JTS6200QUL,Quits: Health Care and Social Assistance
+JTS7000HIL,Hires: Leisure and Hospitality
+JTS7000JOL,Job Openings: Leisure and Hospitality
+JTS7000QUL,Quits: Leisure and Hospitality
+JTS7100JOL,"Job Openings: Arts, Entertainment, and Recreation"
+JTS7200HIL,Hires: Accommodation and Food Services
+JTS7200JOL,Job Openings: Accommodation and Food Services
+JTS7200QUL,Quits: Accommodation and Food Services
+JTS9000HIL,Hires: Government
+JTS9000JOL,Job Openings: Government
+JTS9000LDL,Layoffs and Discharges: Government
+JTS9000OSL,Other Separations: Government
+JTS9000QUL,Quits: Government
+JTS9200HIL,Hires: State and Local
+JTS9200JOL,Job Openings: State and Local
+JTSHIL,Hires: Total Nonfarm
+JTSJOL,Job Openings: Total Nonfarm
+JTSLDL,Layoffs and Discharges: Total Nonfarm
+JTSOSL,Other Separations: Total Nonfarm
+JTSQUL,Quits: Total Nonfarm
+JTSTSL,Total Separations: Total Nonfarm
+JTU110099JOL,Job Openings: Mining and Logging
+JTU2300LDL,Layoffs and Discharges: Construction
+JTU3000LDL,Layoffs and Discharges: Manufacturing
+JTU4400LDL,Layoffs and Discharges: Retail Trade
+JTU480099JOL,"Job Openings: Transportation, Warehousing, and Utilities"
+JTU510099JOL,Job Openings: Financial Activities
+JTU5100HIL,Hires: Information
+JTU5100JOL,Job Openings: Information
+JTU5100LDL,Layoffs and Discharges: Information
+JTU5100QUL,Quits: Information
+JTU5200HIL,Hires: Finance and Insurance
+JTU5200JOL,Job Openings: Finance and Insurance
+JTU5200LDL,Layoffs and Discharges: Finance and Insurance
+JTU5300JOL,Job Openings: Real Estate and Rental and Leasing
+JTU540099LDL,Layoffs and Discharges: Professional and Business Services
+JTU6200LDL,Layoffs and Discharges: Health Care and Social Assistance
