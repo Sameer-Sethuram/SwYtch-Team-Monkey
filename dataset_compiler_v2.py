@@ -1,8 +1,10 @@
 import os
 import pandas as pd
+from fredapi import Fred
 
-folder_path = "C:\Users\samee\OneDrive\Desktop\SwYtch Team Monkey\Individual_Datasets"
-x_axis_column = "timestamp"  # Replace with your actual x-axis column name
+folder_path = r"C:\Users\samee\OneDrive\Desktop\SwYtch Team Monkey\Individual_Datasets"
+x_axis_column = "observation_date"  # Replace with your actual x-axis column name
+fred = Fred(api_key="778bb312df08b720918f5475f1581512")
 
 merged_df = None
 
@@ -26,4 +28,29 @@ for filename in os.listdir(folder_path):
 # Reset index if needed
 merged_df.reset_index(inplace=True)
 
+def extract_series_id(col_name):
+    return col_name.split("_")[0]
+
+series_ids = [extract_series_id(col) for col in merged_df.columns if col != "observation_date"]
+
+# Create a dictionary of ID → Title
+translated = {}
+for series_id in series_ids:
+    try:
+        title = fred.get_series_info(series_id)['title']
+        translated[series_id] = title
+    except Exception as e:
+        translated[series_id] = f"⚠️ Not found ({e})"
+
+# Convert to DataFrame for easy viewing
+df_translation = pd.DataFrame(list(translated.items()), columns=["Series ID", "Title"])
+print(df_translation)
+
+merged_df.columns = [
+    translated.get(extract_series_id(col), col) if col != "observation_date" else col
+    for col in merged_df.columns
+]
+
 print(merged_df.head())
+
+merged_df.to_csv("combined_dataset.csv", index=False)
