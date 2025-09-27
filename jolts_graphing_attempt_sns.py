@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load your formatted dataset
-jolts_df = pd.read_csv('jolts_formatted')
+jolts_df = pd.read_csv('jolts_formatted.csv')
 jolts_df['date'] = pd.to_datetime(jolts_df['date'], errors='coerce')
 
 # Step 1: Define exact column labels or use precise keyword filters

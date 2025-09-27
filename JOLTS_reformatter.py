@@ -101,4 +101,4 @@ jolts_df.columns = [
 
 print(jolts_df.columns)
 
-jolts_df.to_csv('jolts_formatted')
+jolts_df.to_csv('jolts_formatted.csv')

@@ -1,6 +1,6 @@
 import pandas as pd
 
-jolts_df = pd.read_csv('jolts_formatted')
+jolts_df = pd.read_csv('jolts_formatted.csv')
 
 print(f"\n🔢 Total columns in dataset (excluding 'date'): {len(jolts_df.columns) - 1}")
 
