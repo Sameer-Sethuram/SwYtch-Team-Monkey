@@ -2,8 +2,6 @@ import pandas as pd
 import re
 from fredapi import Fred
 
-fred = Fred(api_key="778bb312df08b720918f5475f1581512")
-
 def compile_jolts_dataset(file_path):
     # Initialize storage
     data_dict = {}  # series_id → {date_str: value}
