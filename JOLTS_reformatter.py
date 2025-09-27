@@ -39,6 +39,20 @@ with open(r"C:\Users\samee\OneDrive\Desktop\SwYtch Team Monkey\mapping\jt.indust
 
         industry_map[industry_code] = industry_text
 
+state_map = {}
+with open(r"C:\Users\samee\OneDrive\Desktop\SwYtch Team Monkey\mapping\jt.state", 'r') as f:
+    lines = f.readlines()
+
+    for line in lines:
+        if line.strip() == '' or line.startswith('state_code'):
+            continue
+
+        fields = line.strip().split('\t')
+        state_code = fields[0]
+        state_text = fields[1]
+
+        state_map[state_code] = state_text  # Fix: store as string, not list
+
 def decode_series_id(series_id):
     # Strip prefix if needed
     if series_id.startswith('JT') or series_id.startswith('JT'):
@@ -46,16 +60,18 @@ def decode_series_id(series_id):
 
     seasonal = series_id[0]
     industry_code = series_id[1:7]
+    state_code = series_id[7:9]
     data_element_code = series_id[-3:-1]
     rate_level_code = series_id[-1]
 
     # Build label
     element = data_element_map.get(data_element_code, data_element_code)
     industry = industry_map.get(industry_code, f"Industry {industry_code}")
+    state = state_map.get(state_code, state_code)
     rate_level = rate_level_map.get(rate_level_code, rate_level_code)
     seasonal_adj = seasonal_map.get(seasonal, seasonal)
 
-    label = f"{element}: {industry} - {rate_level}, Monthly, {seasonal_adj}"
+    label = f"{element}: {industry} in {state} - {rate_level}, Monthly, {seasonal_adj}"
     return label
 
 jolts_df = pd.read_csv(r"C:\Users\samee\OneDrive\Desktop\SwYtch Team Monkey\jolts_compiled_wide_unformatted.csv")
