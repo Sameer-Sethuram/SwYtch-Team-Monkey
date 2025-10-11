@@ -1,0 +1,8 @@
+sizeclass_code	sizeclass_text	display_level	selectable	sort_sequence
+00	All size classes	0	T	1
+01	1 to 9 employees	1	T	2
+02	10 to 49 employees	1	T	3
+03	50 to 249 employees	1	T	4
+04	250 to 999 employees	1	T	5
+05	1,000 to 4,999 employees	1	T	6
+06	5,000 or more employees	1	T	7
