@@ -62,8 +62,8 @@ def load_data(file_path, **kwargs):
 def clean_data(df):
     get_metadata(df)
 
-    if 'countryCode' in df.columns:
-        df=df.drop('countryCode', axis=1);
+    if 'Domain Source' in df.columns:
+        df=df.drop('Domain Source', axis=1);
 
     if 'countryName' in df.columns:
         df=df.drop('countryName', axis=1);
