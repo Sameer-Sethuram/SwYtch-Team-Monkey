@@ -1,6 +1,5 @@
 import pandas as pd
 import re
-from fredapi import Fred
 
 def compile_jolts_dataset(file_path):
     # Initialize storage
