@@ -12,6 +12,7 @@ with open("top_features_dict_PCA.pkl", "rb") as f:
     top_features_layoffs = pickle.load(f)
 
 Each entry in the dictionary contains a list of column names that are in the csv's in the folder data/reduced
+Each dictionary contains another dictionary with the lagged correlations in them. These will be very advantageous towards forecasting trends. See model_feature_selection.ipynb for more clarity on how these look.
 With this in mind, you should also load the dataframes present in that folder to access the data for modeling.
 The labels for the features are in data/labels, and are csv files, load those too so that you can train the model.
 
