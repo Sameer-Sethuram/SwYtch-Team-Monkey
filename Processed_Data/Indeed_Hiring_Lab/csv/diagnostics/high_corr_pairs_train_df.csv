@@ -1,0 +1,171 @@
+col1,col2,abs_corr
+Data & Analytics,IT Systems & Solutions,0.9960884417133026
+Data & Analytics,Software Development,0.9943814063871576
+Headline,Management,0.9943024600820737
+Administrative Assistance,Headline,0.9929362009349308
+Human Resources,Media & Communications,0.9923839301405082
+Medical Technician,Nursing,0.9899475149410516
+Administrative Assistance,Management,0.9896599598120809
+IT Systems & Solutions,Software Development,0.9877051702462412
+IT Systems & Solutions,Media & Communications,0.9868181886910817
+Banking & Finance,"IT Infrastructure, Operations & Support",0.986086472986147
+Human Resources,Marketing,0.9860712140856065
+Logistic Support,Management,0.9860095594368494
+"IT Infrastructure, Operations & Support",IT Systems & Solutions,0.9857278068076573
+"IT Infrastructure, Operations & Support",Media & Communications,0.9856869354127774
+Data & Analytics,"IT Infrastructure, Operations & Support",0.985466054109038
+Marketing,Media & Communications,0.9852466671518169
+Banking & Finance,Media & Communications,0.9849794260531783
+Banking & Finance,IT Systems & Solutions,0.9843815711243028
+Management,Project Management,0.9839995010088394
+Cleaning & Sanitation,Production & Manufacturing,0.9837839469341759
+Media & Communications,Scientific Research & Development,0.9824527859354167
+Civil Engineering,Physicians & Surgeons,0.9818943369349833
+Administrative Assistance,Medical Information,0.9818459549822693
+Physicians & Surgeons,Therapy,0.9817368424820008
+Human Resources,IT Systems & Solutions,0.9817239136948044
+Sports,Therapy,0.9814262573744653
+Headline,Security & Public Safety,0.9812231761385153
+Banking & Finance,Scientific Research & Development,0.9808814377731864
+Childcare,Installation & Maintenance,0.9806603894423551
+Industrial Engineering,Project Management,0.9803387525283425
+Headline,Logistic Support,0.9802201457906071
+"IT Infrastructure, Operations & Support",Scientific Research & Development,0.9801373292989001
+Administrative Assistance,Logistic Support,0.9798493031504242
+Data & Analytics,Media & Communications,0.979703378807372
+Human Resources,Scientific Research & Development,0.9795811460767431
+Legal,Management,0.9789001672356409
+Legal,Project Management,0.978863838217379
+Banking & Finance,Human Resources,0.9784251521658277
+Logistic Support,Project Management,0.9781790998466509
+Arts & Entertainment,Media & Communications,0.9778615607776545
+Headline,Legal,0.9778450219369066
+Food Preparation & Service,Installation & Maintenance,0.9771826484368233
+Banking & Finance,Data & Analytics,0.9769099239854925
+Administrative Assistance,Project Management,0.976870524733513
+Medical Information,Production & Manufacturing,0.97612519420608
+Food Preparation & Service,Hospitality & Tourism,0.9756951190688041
+Administrative Assistance,Production & Manufacturing,0.9750899473841169
+Arts & Entertainment,Industrial Engineering,0.9749144747006089
+Headline,Project Management,0.9747941455701422
+Arts & Entertainment,Project Management,0.9745500736131141
+Architecture,Project Management,0.9742447951348526
+Food Preparation & Service,Headline,0.9742052931797033
+Customer Service,Loading & Stocking,0.9740988185874212
+Customer Service,Sales,0.973716747235216
+Industrial Engineering,Scientific Research & Development,0.9730956404676672
+Arts & Entertainment,Banking & Finance,0.9730910286278504
+IT Systems & Solutions,Marketing,0.9727187916162914
+Installation & Maintenance,Veterinary,0.9725338331499134
+Human Resources,"IT Infrastructure, Operations & Support",0.972412873172583
+Banking & Finance,Industrial Engineering,0.9720583056646004
+Community & Social Service,Hospitality & Tourism,0.9720428827447245
+Community & Social Service,Medical Technician,0.97202970441251
+Arts & Entertainment,Scientific Research & Development,0.9717025519523236
+Data & Analytics,Human Resources,0.971525748018601
+Arts & Entertainment,Human Resources,0.9712829493671905
+Headline,Production & Manufacturing,0.9712719251861086
+Community & Social Service,Installation & Maintenance,0.971258293734962
+Data & Analytics,Marketing,0.9703894403082423
+Physicians & Surgeons,Sports,0.970256598130086
+Food Preparation & Service,Security & Public Safety,0.9701389532371184
+Arts & Entertainment,Sales,0.9697900001203775
+Community & Social Service,Personal Care & Home Health,0.9696676752442285
+Community & Social Service,Legal,0.9694634489710081
+Architecture,Legal,0.9692663187479745
+Medical Information,Scientific Research & Development,0.969245415489675
+Management,Security & Public Safety,0.9690114489342879
+Administrative Assistance,Security & Public Safety,0.9689303163409636
+Installation & Maintenance,Personal Care & Home Health,0.9685978823442188
+Medical Technician,Personal Care & Home Health,0.9685793969397443
+Administrative Assistance,Arts & Entertainment,0.9685190675396154
+IT Systems & Solutions,Scientific Research & Development,0.9674300989885608
+"IT Infrastructure, Operations & Support",Industrial Engineering,0.9674259132840086
+Community & Social Service,Electrical Engineering,0.9672568957695736
+"IT Infrastructure, Operations & Support",Software Development,0.9672105176655031
+Legal,Security & Public Safety,0.9671682374634434
+Arts & Entertainment,Management,0.9671624164656598
+Legal,Logistic Support,0.9666067279300304
+Arts & Entertainment,Logistic Support,0.9663988762303092
+Production & Manufacturing,Sales,0.9661111039070167
+Childcare,Community & Social Service,0.9660971839827124
+Marketing,Software Development,0.9657713091631179
+Headline,Medical Information,0.9655848347460868
+Childcare,Veterinary,0.9655641503367195
+Administrative Assistance,Industrial Engineering,0.9653818979456282
+Customer Service,Production & Manufacturing,0.9648803232630309
+Marketing,Scientific Research & Development,0.964722596793777
+Media & Communications,Software Development,0.9645607205868791
+Installation & Maintenance,Medical Technician,0.9641560311836659
+Hospitality & Tourism,Security & Public Safety,0.96415568788288
+Architecture,Electrical Engineering,0.964071778247499
+Childcare,Personal Care & Home Health,0.9639383009759193
+Headline,Nursing,0.9637709371867096
+Administrative Assistance,Legal,0.963740472877446
+Headline,Medical Technician,0.9637248308570215
+Community & Social Service,Security & Public Safety,0.9628147242388942
+Installation & Maintenance,Security & Public Safety,0.962756594979677
+Legal,Medical Technician,0.9620586368545294
+Headline,Installation & Maintenance,0.9619532647672915
+Electrical Engineering,Medical Technician,0.9619209620277717
+Hospitality & Tourism,Legal,0.9616490933525519
+Data & Analytics,Scientific Research & Development,0.9614345470588076
+Administrative Assistance,Sales,0.9613016565965753
+Human Resources,Software Development,0.9610456806052063
+Industrial Engineering,Management,0.9605249170282132
+Childcare,Food Preparation & Service,0.9602214615010027
+Hospitality & Tourism,Installation & Maintenance,0.9598796601904712
+Banking & Finance,Marketing,0.9598752884226666
+Management,Medical Information,0.9596923811379462
+Cleaning & Sanitation,Customer Service,0.959588550868494
+Food Preparation & Service,Management,0.959476056311523
+Arts & Entertainment,"IT Infrastructure, Operations & Support",0.9593366694564046
+Civil Engineering,Therapy,0.9591775641157815
+Logistic Support,Security & Public Safety,0.9586689808739849
+Headline,Hospitality & Tourism,0.9586019473122647
+Management,Production & Manufacturing,0.9579691776530455
+"IT Infrastructure, Operations & Support",Marketing,0.9579270167536329
+Banking & Finance,Software Development,0.9571896643148378
+Industrial Engineering,Media & Communications,0.9568423560733429
+Administrative Assistance,Scientific Research & Development,0.9563058545497518
+Cleaning & Sanitation,Sales,0.95601766713211
+Medical Information,Sales,0.9558877449079951
+Installation & Maintenance,Nursing,0.9557625058275053
+Community & Social Service,Nursing,0.9555286164579925
+Headline,Sales,0.9555017184062823
+Administrative Assistance,Nursing,0.9553978266656146
+Management,Sales,0.9550587688059957
+Project Management,Security & Public Safety,0.9549785369615922
+Accounting,Management,0.9547862985375484
+Accounting,Administrative Assistance,0.9547743656005105
+Industrial Engineering,Medical Information,0.9547211472138584
+Arts & Entertainment,Headline,0.9544139220333593
+Community & Social Service,Food Preparation & Service,0.953953856936841
+Cleaning & Sanitation,Headline,0.9537896835092581
+Cleaning & Sanitation,Food Preparation & Service,0.9537794753680404
+Childcare,Hospitality & Tourism,0.9536163717535918
+Community & Social Service,Education & Instruction,0.9533824735025479
+Industrial Engineering,Logistic Support,0.9533543950492896
+Production & Manufacturing,Scientific Research & Development,0.9533473719408196
+Architecture,Community & Social Service,0.9533324104297656
+Electrical Engineering,Nursing,0.9532641058623078
+Community & Social Service,Headline,0.9529895276192386
+Management,Medical Technician,0.9529094917050351
+Arts & Entertainment,Medical Information,0.9527387183519949
+Accounting,Nursing,0.9526494134003882
+Cleaning & Sanitation,Security & Public Safety,0.9525085863315186
+Architecture,Management,0.95232934359665
+Accounting,Industrial Engineering,0.9523137989750039
+Personal Care & Home Health,Veterinary,0.9522585390461377
+Civil Engineering,Sports,0.951591992524071
+Administrative Assistance,Food Preparation & Service,0.9514424316711655
+Sales,Scientific Research & Development,0.9514208744190408
+Production & Manufacturing,Security & Public Safety,0.9508114753977827
+Architecture,Headline,0.9508022082946452
+Logistic Support,Production & Manufacturing,0.9505377489092532
+Accounting,Project Management,0.9504881712467657
+Arts & Entertainment,IT Systems & Solutions,0.9504063097429892
+Food Preparation & Service,Legal,0.9503083148719468
+Administrative Assistance,Cleaning & Sanitation,0.950243995355634
+Headline,Industrial Engineering,0.9502133271220232
+Media & Communications,Sales,0.9500903885047873

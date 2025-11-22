@@ -1,0 +1,46 @@
+sectorName,correlation_with_headline,abs_correlation_with_headline,is_top_5_positive,is_top_5_negative,is_weak_correlation
+Accounting,0.9409858434332863,0.9409858434332863,False,False,False
+Administrative Assistance,0.9890111645668599,0.9890111645668599,True,False,False
+Architecture,0.9523778641070925,0.9523778641070925,False,False,False
+Arts & Entertainment,0.9548182578144188,0.9548182578144188,False,False,False
+Banking & Finance,0.9156976380420775,0.9156976380420775,False,False,False
+Childcare,0.9319519578987436,0.9319519578987436,False,False,False
+Civil Engineering,0.6601836609673442,0.6601836609673442,False,False,False
+Cleaning & Sanitation,0.9483182414186849,0.9483182414186849,False,False,False
+Community & Social Service,0.9514213356596081,0.9514213356596081,False,False,False
+Construction,0.8957928017981293,0.8957928017981293,False,False,False
+Customer Service,0.9100901965721242,0.9100901965721242,False,False,False
+Data & Analytics,0.8324683599538221,0.8324683599538221,False,False,False
+Dental,0.7634374542779127,0.7634374542779127,False,False,False
+Driving,0.8095286266844678,0.8095286266844678,False,False,False
+Education & Instruction,0.8047970441317863,0.8047970441317863,False,False,False
+Electrical Engineering,0.9239567671007237,0.9239567671007237,False,False,False
+Food Preparation & Service,0.9727337940861873,0.9727337940861873,False,False,False
+Hospitality & Tourism,0.9580521911845643,0.9580521911845643,False,False,False
+Human Resources,0.9111789775271939,0.9111789775271939,False,False,False
+"IT Infrastructure, Operations & Support",0.8768902962210708,0.8768902962210708,False,False,False
+IT Systems & Solutions,0.8597221224096965,0.8597221224096965,False,False,False
+Industrial Engineering,0.9459237826176029,0.9459237826176029,False,False,False
+Installation & Maintenance,0.9605470179069403,0.9605470179069403,False,False,False
+Legal,0.9564625335816401,0.9564625335816401,False,False,False
+Loading & Stocking,0.8695845997337177,0.8695845997337177,False,False,False
+Logistic Support,0.9733806567741331,0.9733806567741331,True,False,False
+Management,0.994265535838992,0.994265535838992,True,False,False
+Marketing,0.8644369557428456,0.8644369557428456,False,False,False
+Media & Communications,0.896345990630921,0.896345990630921,False,False,False
+Medical Information,0.958790229693653,0.958790229693653,False,False,False
+Medical Technician,0.9602838159966136,0.9602838159966136,False,False,False
+Nursing,0.9645970394989051,0.9645970394989051,False,False,False
+Personal Care & Home Health,0.9123571383476647,0.9123571383476647,False,False,False
+Pharmacy,0.8979203774064564,0.8979203774064564,False,False,False
+Physicians & Surgeons,0.5632896744221814,0.5632896744221814,False,False,False
+Production & Manufacturing,0.9627990488524593,0.9627990488524593,False,False,False
+Project Management,0.9758087033369229,0.9758087033369229,True,False,False
+Retail,0.9435492206967788,0.9435492206967788,False,False,False
+Sales,0.9542539931974768,0.9542539931974768,False,False,False
+Scientific Research & Development,0.9010439012819115,0.9010439012819115,False,False,False
+Security & Public Safety,0.9817657090811127,0.9817657090811127,True,False,False
+Software Development,0.7935508007308929,0.7935508007308929,False,False,False
+Sports,0.5668421719198354,0.5668421719198354,False,False,False
+Therapy,0.5967353524949403,0.5967353524949403,False,False,False
+Veterinary,0.8843471675269026,0.8843471675269026,False,False,False
