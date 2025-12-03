@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # === Step 1: Load and clean original dataset ===
-jolts = pd.read_csv('jolts_cleaned.csv')  # Replace with actual path
+jolts = pd.read_csv('data/jolts_cleaned.csv')  # Replace with actual path
 
 # Ensure 'date' is string for filtering
 jolts['date'] = jolts['date'].astype(str)
@@ -46,4 +46,4 @@ rounded_reset = rounded.reset_index()
 rounded_reset.insert(0, 'index', range(1, len(rounded_reset) + 1))
 
 # === Step 6: Save final output ===
-rounded_reset.to_csv('jolts_smoothed.csv', index=False)
+rounded_reset.to_csv('data/jolts_smoothed.csv', index=False)
