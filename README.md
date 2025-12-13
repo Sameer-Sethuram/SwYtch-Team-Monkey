@@ -168,6 +168,5 @@ Special thanks to our Swytch advisors and supporters
 
 * **Jim Thompson**, Challenge Advisor
 * **Tim Liu**, Challenge Advisor
-* **Maureen Keating**, Founder at Swytch
 * **Beth**, for project coordination and guidance
 * Break Through Tech AI Studio mentors and TAs
