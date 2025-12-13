@@ -161,11 +161,11 @@ JOLTS and Indeed datasets produced the most reliable forecasting signals
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
-Special thanks to our Swytch advisors and supporters
+Special thanks to our BreakThrough Tech and Swytch advisors.
 
+* **Beth**, for project coordination and guidance
 * **Jim Thompson**, Challenge Advisor
 * **Tim Liu**, Challenge Advisor
-* **Beth**, for project coordination and guidance
 * Break Through Tech AI Studio mentors and TAs
