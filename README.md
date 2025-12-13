@@ -7,14 +7,14 @@
 
 ## 👥 Team Members
 
-| Name                   | GitHub Handle                                        | Contribution                                       |
-| ---------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| Abdullah Khajamohideen | [@Abdullah]                                          | Data preprocessing, EDA, feature filtering         |
-| Adelitta Stanton       | [@TheAdelitta](https://github.com/TheAdelitta)       | Data analysis, modeling support                    |
-| Ibrahima Wann          | [@Ibrahima]                                          | Dataset research, EDA                              |
-| Raul Rojas             | [@RIROJASS](https://github.com/RIROJASS)             | Modeling, evaluation                               |
-| **Rohitha Matwada**    | [@RohithaM27](https://github.com/RohithaM27)         | Project coordination, insights synthesis, modeling |
-| Sameer Sethuram        | [@Sameer-Sethuram](https://github.com/Sameer-Sethuram) | Feature engineering, model testing                 |
+| Name                   | GitHub Handle                                        | Contribution                                  |
+| ---------------------- | ---------------------------------------------------- | --------------------------------------------- |
+| Abdullah Khajamohideen | [@Abdullah]                                          | Research, Data preprocessing, EDA, Modeling   |
+| Adelitta Stanton       | [@TheAdelitta](https://github.com/TheAdelitta)       | Project coordination, insights synthesis      |
+| Ibrahima Wann          | [@Ibrahima]                                          | Research, Data preprocessing, EDA             |
+| Raul Rojas             | [@RIROJASS](https://github.com/RIROJASS)             | Research, Data preprocessing, EDA, Modeling   |
+| Rohitha Matwada        | [@RohithaM27](https://github.com/RohithaM27)         | Research, Data preprocessing, EDA, Modeling   |
+| Sameer Sethuram        | [@Sameer-Sethuram](https://github.com/Sameer-Sethuram) | Research, Data preprocessing, EDA, Modeling |
 
 
 ---
