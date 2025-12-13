@@ -3,7 +3,6 @@
 **AI Studio Challenge Project Swytch (Project 1)**
 
 ---
-## 👥 Team Members
 
 ## 👥 Team Members
 
