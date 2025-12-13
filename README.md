@@ -3,17 +3,19 @@
 **AI Studio Challenge Project Swytch (Project 1)**
 
 ---
+## 👥 Team Members
 
 ## 👥 Team Members
 
-| Name                   | GitHub Handle | Contribution                                       |
-| ---------------------- | ------------- | -------------------------------------------------- |
-| Abdullah Khajamohideen |               | Data preprocessing, EDA, feature filtering         |
-| Adelitta Stanton       |               | Data analysis, modeling support                    |
-| Ibrahima Wann          |               | Dataset research, EDA                              |
-| Raul Rojas             |               | Modeling, evaluation                               |
-| **Rohitha Matwada**    |               | Project coordination, insights synthesis, modeling |
-| Sameer Sethuram        |               | Feature engineering, model testing                 |
+| Name                   | GitHub Handle                                        | Contribution                                       |
+| ---------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| Abdullah Khajamohideen | [@Abdullah]                                          | Data preprocessing, EDA, feature filtering         |
+| Adelitta Stanton       | [@TheAdelitta](https://github.com/TheAdelitta)       | Data analysis, modeling support                    |
+| Ibrahima Wann          | [@Ibrahima]                                          | Dataset research, EDA                              |
+| Raul Rojas             | [@RIROJASS](https://github.com/RIROJASS)             | Modeling, evaluation                               |
+| **Rohitha Matwada**    | [@RohithaM27](https://github.com/RohithaM27)         | Project coordination, insights synthesis, modeling |
+| Sameer Sethuram        | [@Sameer-Sethuram](https://github.com/Sameer-Sethuram) | Feature engineering, model testing                 |
+
 
 ---
 
